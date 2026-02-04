@@ -150,7 +150,7 @@ ticketsTaken *= 2;
 ticketsSold += (long) 1;
 ```
 A. ticketsSold is 8.  
-B. ticketsTaken is 2.
+B. ticketsTaken is 2.  
 C. ticketsSold is 6.*  
 D. ticketsTaken is 6.  
 E. ticketsSold is 7.  
@@ -160,3 +160,13 @@ G. The code does not compile.
 <br/>
 <br/>
 
+## 11. Which of the following can be used to change the order of operation in an expression?
+A. \[ \]  
+B. < >  
+C. ( )*  
+D. \ /  
+E. { }  
+F. " "
+---
+<br/>
+<br/>

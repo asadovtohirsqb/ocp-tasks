@@ -31,3 +31,26 @@ E. 5*
 F. 6  
 G. The code does not compile  
 ---
+<br/>  
+<br/>  
+
+# 3. Which is not an output of the following code snippet?
+```java
+short height = 1, weight = 3;
+short zebra = (byte) weight * (byte) height;
+double ox = 1 + height * 2 + weight;
+long giraffe = 1 + 9 % height +1;
+System.out.println(zebra);
+System.out.println(ox);
+System.out.println(giraffe);
+```
+A. 2  
+B. 3  
+C. 6  
+D. 6.0
+E. The code does not compile.
+---
+<br/>  
+<br/>  
+
+## 4. 

@@ -1,4 +1,4 @@
-1.
+### 1. What is the output of the following code snippet?
 ```java
 4: int pig = (short) 4;
 5: pig = pig++;
@@ -13,7 +13,7 @@ D. 5 - 2
 E. The code does not compile due to line 7.  
 F. None of the above.
 ---
-2. What are the unique outputs of the following code snippet? (Choose all the apply)
+### 2. What are the unique outputs of the following code snippet? (Choose all that apply)
 ```java
 int a = 2, b = 4, c = 2;
 System.out.println(a > 2 ? --c : b++);

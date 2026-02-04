@@ -47,7 +47,7 @@ System.out.println(giraffe);
 A. 2  
 B. 3  
 C. 6  
-D. 6.0
+D. 6.0  
 E. The code does not compile.
 ---
 <br/>  

@@ -103,13 +103,26 @@ G. None of the above
 
 ## 7. Which of the following statements are correct? (Choose all the apply.)  
 A. The return value of an assignment operation expression can be void.  
-B. The inequality operator `(!=)` can be used to compare objects.  
+B. The inequality operator `(!=)` can be used to compare objects.*  
 C. The equality operator `(==)` can be used to compare a `boolean` value with a `numeric` value.  
 D. During runtime, the `&` and `|` operators may cause only the left side of the expression to be evaluated.  
-E. The return value of an assigment operation expression is the value of the newly assigned variable.  
+E. The return value of an assigment operation expression is the value of the newly assigned variable.*  
 F. In Java, `0` and `false` may be used interchangeably.  
-G. The logical complement opereator `(!)` cannnot be used to flip `numeric` values.  
+G. The logical complement opereator `(!)` cannnot be used to flip `numeric` values.*  
 ---
 <br/>
 <br/>
 
+## 8. Which operator takes three operands or values?  
+A. =  
+B. &&  
+C. *=  
+D. ? : *  
+E. &  
+F. ++  
+G. /  
+---
+<br/>
+<br/>
+
+## 9. 

@@ -75,7 +75,7 @@ G. The code does not compile.
 A. post-increment, post-increment  
 B. pre-decrement, post-decrement  
 C. post-increment, post-decrement  
-D. post-increment, pre-decrement  
+D. post-increment, pre-decrement*  
 E. pre-increment, pre-decrement  
 F. pre-increment, post-decrement  
 ---
@@ -95,11 +95,21 @@ B. false-true-false
 C. true-true-true  
 D. false-true-true  
 E. false-false-false  
-F. true-true-false  
+F. true-true-false*  
 G. None of the above  
 ---
 <br/>
 <br/>
 
-## 7.
+## 7. Which of the following statements are correct? (Choose all the apply.)  
+A. The return value of an assignment operation expression can be void.  
+B. The inequality operator `(!=)` can be used to compare objects.  
+C. The equality operator `(==)` can be used to compare a `boolean` value with a `numeric` value.  
+D. During runtime, the `&` and `|` operators may cause only the left side of the expression to be evaluated.  
+E. The return value of an assigment operation expression is the value of the newly assigned variable.  
+F. In Java, `0` and `false` may be used interchangeably.  
+G. The logical complement opereator `(!)` cannnot be used to flip `numeric` values.  
+---
+<br/>
+<br/>
 

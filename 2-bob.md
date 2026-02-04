@@ -53,4 +53,53 @@ E. The code does not compile. *
 <br/>  
 <br/>  
 
-## 4. 
+## 4. What is the output of the following code?
+```java
+int sample1 = (2 * 4) % 3;
+int sample2 = 3 * 2 % -3;
+int sample3 = 5 * (1 % 2);
+System.out.println(sample1 + ", " + sample2 + ", " + sample3);
+```
+A. 0, 0, 5  
+B. 1, 2, 10  
+C. 2, 1, 5  
+D. 2, 0, 5*  
+E. 3, 1, 10  
+F. 3, 2, 6  
+G. The code does not compile.  
+---
+<br/>  
+<br/>  
+
+## 5. The _______ operator increases a value and returns the original value, while the _________ operator decreases a value and returns the new value.  
+A. post-increment, post-increment  
+B. pre-decrement, post-decrement  
+C. post-increment, post-decrement  
+D. post-increment, pre-decrement  
+E. pre-increment, pre-decrement  
+F. pre-increment, post-decrement  
+---
+<br/>  
+<br/>  
+
+## 6. What is the output of the following code snippet?  
+```java
+boolean sunny = true, raining = false, sunday = true;
+boolean goingToTheStore = sunny & raining ^ sunday;
+boolean goingToTheZoo = sunday && !raining;
+boolean stayingHome = !(goingToTheStore && goingToTheZoo);
+System.out.println(goingToTheStore+"-"+goingToTheZoo+"-"+stayingHome);
+```
+A. true-false-false  
+B. false-true-false  
+C. true-true-true  
+D. false-true-true  
+E. false-false-false  
+F. true-true-false  
+G. None of the above  
+---
+<br/>
+<br/>
+
+## 7.
+

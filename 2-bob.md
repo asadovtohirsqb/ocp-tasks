@@ -127,13 +127,13 @@ G. /
 
 ## 9. How many lines of the following code contain compiler errors?  
 ```java
-int note = 1 *2+(long)3;
-short melody = (byte)(double)(note*=2);
+int note = 1 * 2 + (long) 3;
+short melody = (byte) (double) (note *= 2);
 double song = melody;
-float symphony = (float) ((song==1_000f)?song *2L : song);
+float symphony = (float) ((song == 1_000f) ? song * 2L : song);
 ```
 A. 0  
-B. 1  
+B. 1*  
 C. 2  
 D. 3  
 E. 4  
@@ -141,4 +141,22 @@ E. 4
 <br/>
 <br/>
 
-## 10. 
+## 10. Given the following code snippet, what are the values of the variables after it is executed? (Choose all the apply.)  
+```java
+int ticketsTaken = 1;
+int ticketsSold = 3;
+ticketsSold += 1 + ticketsTaken++;
+ticketsTaken *= 2;
+ticketsSold += (long) 1;
+```
+A. ticketsSold is 8.  
+B. ticketsTaken is 2.
+C. ticketsSold is 6.*  
+D. ticketsTaken is 6.  
+E. ticketsSold is 7.  
+F. ticketsTaken is 4.*  
+G. The code does not compile.  
+---
+<br/>
+<br/>
+

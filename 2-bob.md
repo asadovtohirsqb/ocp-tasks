@@ -13,8 +13,8 @@ D. 5 - 2
 E. The code does not compile due to line 7.  
 F. None of the above.
 ---
--  
--  
+<br/>  
+<br/>  
 ## 2. What are the unique outputs of the following code snippet? (Choose all that apply)
 ```java
 int a = 2, b = 4, c = 2;

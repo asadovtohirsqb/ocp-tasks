@@ -6,10 +6,10 @@
 7: goat-=1.0;
 8: System.out.println(pig+"-"+goat);
 ```
-A. 4 - 1
-B. 4 - 2
-C. 5 - 1
-D. 5 - 2
-E. The code does not compile due to line 7.
+A. 4 - 1  
+B. 4 - 2  
+C. 5 - 1  
+D. 5 - 2  
+E. The code does not compile due to line 7.  
 F. None of the above.
 ---

@@ -12,14 +12,14 @@ on the actual machine it is on. You can think of the JVM as a special box on you
 
 ---
 # Uzbek
-**Java’ning asosiy komponentlari**
+# Java’ning asosiy komponentlari
 
 Java Development Kit (JDK) — bu Java’da dastur yozish (development) uchun kerak bo‘lgan minimal dasturlar to‘plamidir. Undagi asosiy buyruqlar quyidagilar:
 
-* **javac** — `.java` manba (source) fayllarni `.class` baytkodga (bytecode) o‘giradi
-* **java** — yozilgan dasturni ishga tushiradi
-* **jar** — fayllarni bitta paket (arxiv) ko‘rinishida jamlaydi
-* **javadoc** — dastur uchun hujjat (documentation) generatsiya qiladi
+* `javac` — `.java` manba (source) fayllarni `.class` baytkodga (bytecode) o‘giradi
+* `java` — yozilgan dasturni ishga tushiradi
+* `jar` — fayllarni bitta paket (arxiv) ko‘rinishida jamlaydi
+* `javadoc` — dastur uchun hujjat (documentation) generatsiya qiladi
 
 `javac` dasturi siz yozgan kodni maxsus formatga — **bytecode** ga aylantiradi. Bu formatni esa `java` buyrug‘i orqali ishga tushirish mumkin.
 

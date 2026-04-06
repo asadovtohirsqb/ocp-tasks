@@ -1,4 +1,4 @@
-# O`zbekchna
+# O`zbekcha
 # Java’ning asosiy komponentlari
 
 Java Development Kit (JDK) — bu Java’da dastur yozish (development) uchun kerak bo‘lgan minimal dasturlar to‘plamidir. Undagi asosiy buyruqlar quyidagilar:

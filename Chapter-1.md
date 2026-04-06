@@ -11,7 +11,7 @@ on the actual machine it is on. You can think of the JVM as a special box on you
 
 
 ---
-# Uzbek U+1F1FA U+1F1FF
+# Uzbek ![Uzbekistan Flag](https://admin.emojikeyboard.io/emojis/google/flag-uzbekistan.png)
 # Java’ning asosiy komponentlari
 
 Java Development Kit (JDK) — bu Java’da dastur yozish (development) uchun kerak bo‘lgan minimal dasturlar to‘plamidir. Undagi asosiy buyruqlar quyidagilar:

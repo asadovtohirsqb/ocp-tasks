@@ -1,4 +1,4 @@
-# English
+# English 
 ## Major Components of Java.
 The Java Development Kit (JDK) contains the minimum software you need to do Java development. Key commands include the following:
 - `javac`: Converts `.java` source files into `.class` bytecode
@@ -11,7 +11,7 @@ on the actual machine it is on. You can think of the JVM as a special box on you
 
 
 ---
-# Uzbek
+# Uzbek 🇺🇿
 # Java’ning asosiy komponentlari
 
 Java Development Kit (JDK) — bu Java’da dastur yozish (development) uchun kerak bo‘lgan minimal dasturlar to‘plamidir. Undagi asosiy buyruqlar quyidagilar:

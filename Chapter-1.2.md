@@ -13,8 +13,11 @@ Turli klasslarga tegishli barcha obyektlar birgalikda dasturingizning holatini (
 
 # English 
 ## Classes.
-In Java programs, classes are the basic building blocks.
-To use most classes, you have to create objects. An object is a runtime instance of a class in memory. An object is often referred to as an instance since it represents a single representation of the class.
-All the various objects of all the different classes represent the state of your program. A reference is a variable that points to an object.
+In Java programs, `classes` are the basic building blocks.
+
+To use most classes, you have to create objects. An `object` is a runtime instance of a class in memory. An object is often referred to as an instance since it represents a single representation of the class.
+All the various objects of all the different classes represent the state of your program.
+
+A `reference` is a variable that points to an object.
 
 
